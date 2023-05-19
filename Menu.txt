@@ -4,3 +4,4 @@ Pizza
 Burger
 Salad
 Fries
+Fruits
