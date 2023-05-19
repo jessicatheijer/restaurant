@@ -1,7 +1,8 @@
 Nasi Goreng
-Soto
 Pizza
 Burger
 Salad
 Fries
 Fruits
+Pasta
+Mac n cheese
