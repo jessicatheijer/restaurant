@@ -6,3 +6,8 @@ Fries
 Fruits
 Pasta
 Mac n cheese
+
+MINUMAN
+Guava Juice
+Avocado Juice
+Lemon Tea
