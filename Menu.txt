@@ -3,3 +3,5 @@ Mi Goreng
 Soto
 Pizza
 Burger
+Salad
+Fries
